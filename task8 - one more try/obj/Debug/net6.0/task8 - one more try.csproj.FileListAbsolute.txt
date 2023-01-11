@@ -1,0 +1,15 @@
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar1\task8 - one more try\bin\Debug\net6.0\task8 - one more try.exe
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar1\task8 - one more try\bin\Debug\net6.0\task8 - one more try.deps.json
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar1\task8 - one more try\bin\Debug\net6.0\task8 - one more try.runtimeconfig.json
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar1\task8 - one more try\bin\Debug\net6.0\task8 - one more try.dll
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar1\task8 - one more try\bin\Debug\net6.0\task8 - one more try.pdb
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar1\task8 - one more try\obj\Debug\net6.0\task8 - one more try.csproj.AssemblyReference.cache
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar1\task8 - one more try\obj\Debug\net6.0\task8 - one more try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar1\task8 - one more try\obj\Debug\net6.0\task8 - one more try.AssemblyInfoInputs.cache
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar1\task8 - one more try\obj\Debug\net6.0\task8 - one more try.AssemblyInfo.cs
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar1\task8 - one more try\obj\Debug\net6.0\task8 - one more try.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar1\task8 - one more try\obj\Debug\net6.0\task8 - one more try.dll
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar1\task8 - one more try\obj\Debug\net6.0\refint\task8 - one more try.dll
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar1\task8 - one more try\obj\Debug\net6.0\task8 - one more try.pdb
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar1\task8 - one more try\obj\Debug\net6.0\task8 - one more try.genruntimeconfig.cache
+C:\Users\Ivan\Documents\ПРОГРАМИСТ - учеба\Homework-C # seminar1\task8 - one more try\obj\Debug\net6.0\ref\task8 - one more try.dll
